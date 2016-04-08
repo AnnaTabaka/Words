@@ -1,5 +1,5 @@
 # Words
-Count word in a sentence
+Count words in a sentence
 
 Technical Exercise:
 Create a .net application that will solve the following problem. There are no time constraints and you are free to use any resources at your disposal.
